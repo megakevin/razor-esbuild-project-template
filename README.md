@@ -1,6 +1,6 @@
 # ASP.NET Core Razor Pages Web App with esbuild
 
-A project template for creating Razor Pages applications with [esbuild](https://esbuild.github.io/).
+A project template for creating ASP.NET Core Razor Pages web applications which use [esbuild](https://esbuild.github.io/) for frontend asset bundling.
 
 ## Getting started
 
