@@ -1,0 +1,21 @@
+{
+  "name": "razoresbuild",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node esbuild.config.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "esbuild": "^0.25.9",
+    "esbuild-sass-plugin": "^3.3.1",
+    "sass": "1.78.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "jquery": "^3.7.1"
+  }
+}

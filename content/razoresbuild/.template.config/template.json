@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Kevin Campusano",
+  "classifications": [ "Web", "Razor Pages", "esbuild" ],
+  "identity": "EndPoint.RazorEsbuildProjectTemplate",
+  "name": "ASP.NET Core Razor Pages Web App with esbuild",
+  "shortName": "razoresbuild",
+  "sourceName":"razoresbuild",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
