@@ -3,7 +3,7 @@
   <PropertyGroup>
     <!-- The package metadata. Fill in the properties marked as TODO below -->
     <!-- Follow the instructions on https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices -->
-    <PackageId>EndPoint.RazorEsbuildProjectTemplate</PackageId>
+    <PackageId>EndPointDev.RazorEsbuildProjectTemplate</PackageId>
     <PackageVersion>1.0</PackageVersion>
     <Title>ASP.NET Core Razor Pages Web App with esbuild</Title>
     <Authors>Kevin Campusano, End Point Corporation</Authors>
@@ -20,6 +20,8 @@
     <NoWarn>$(NoWarn);NU5128</NoWarn>
     <NoDefaultExcludes>true</NoDefaultExcludes>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup>
