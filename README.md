@@ -5,7 +5,7 @@ A project template for creating Razor Pages applications with [esbuild](https://
 ## Getting started
 
 1. Install the template with `dotnet new install EndPointDev.RazorEsbuildProjectTemplate`.
-2. Create a new project with `dotnet new razoresbuild -n YourProJectName`.
+2. Create a new project with `dotnet new razoresbuild -n YourProjectName`.
 
 ### Prerequisites
 
