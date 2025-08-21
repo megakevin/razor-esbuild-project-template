@@ -2,6 +2,8 @@
 
 A project template for creating ASP.NET Core Razor Pages web applications which use [esbuild](https://esbuild.github.io/) for frontend asset bundling.
 
+GitHub: https://github.com/EndPointCorp/razor-esbuild-project-template
+
 ## Getting started
 
 1. Install the template with `dotnet new install EndPointDev.RazorEsbuildProjectTemplate`.
